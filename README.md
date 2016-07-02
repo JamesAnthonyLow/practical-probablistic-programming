@@ -4,6 +4,8 @@ The purpose of this repo is to work through the exercies and material in Avi Pfe
 
 To run my examples I am using the [Figaro Work](https://www.cra.com/sites/default/files/files/FigaroWork.zip) directory specified in the [Figaro Quickstart Guide](https://www.cra.com/sites/default/files/pdf/Figaro_Quick_Start_Guide.pdf) and [SBT](http://www.scala-sbt.org/)
 
+Figaro Work Guide
+======================================================================================
 To run Figaro programs that you create:
 
 1. Install SBT v0.13 for your chosen operating system
