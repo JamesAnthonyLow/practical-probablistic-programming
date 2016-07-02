@@ -1,6 +1,6 @@
 ##Practical Probablistic Programming
 
-The purpose of this repo is to work through the exercies and material in Avi Pfeffer's book [Practical Probablistic Programming](https://www.manning.com/books/practical-probabilistic-programming)
+The purpose of this repo is to work through the exercies and material in Avi Pfeffer's book [Practical Probablistic Programming](https://www.manning.com/books/practical-probabilistic-programming) all about the new probablistic programming language [Figaro](https://github.com/p2t2/figaro)
 
 To run Figaro programs that you create:
 
